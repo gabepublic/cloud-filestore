@@ -16,4 +16,4 @@ Visibility: PUBLIC, so DO NOT store sensitive files.
   - `chromadb==0.4.22`
   - `sentence-transformers==2.2.2`
 - Use by:
-  - llm-chainlit-askbuddha   github: tbd 
+  - llm-chainlit-askbuddha   github: https://github.com/gabepublic/aws-ec2-docker-rag-config01
