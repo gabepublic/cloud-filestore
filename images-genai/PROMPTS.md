@@ -33,3 +33,23 @@ List of prompts that were used to generate the images.
 | <img alt="AI GenImg" src="Gemini_Generated_Image_m1mbd3m1mbd3m1mb.png"> | A thought-provoking image depicting the intersection of human and artificial intelligence. On one side, a stylized human brain, emanating a soft, warm, internal glow and delicate, swirling ethereal patterns in organic colors to represent human consciousness. On the other side, a network of interconnected digital nodes and data streams, representing AI. Crucially, within this AI structure, show a cool, pulsating, internal light and intricate, self-organizing energy patterns flowing through its digital circuitry, distinctively representing its advanced processing or a potential form of artificial consciousness. In the center, a symbolic bridge or merging point where both forms of intelligence interact and influence each other, suggesting a shared world and evolving understanding. The overall style should be sophisticated, slightly abstract, and invite contemplation, with a clear distinction between the organic, warm consciousness of the brain and the structured, cool, pulsating consciousness of the AI. Avoid any explicit human-like features or anything that could be perceived as unsettling. |
 | <img alt="AI GenImg" src="Gemini_Generated_Image_ghfme3ghfme3ghfm.png"> | Create a visually striking and clear Venn diagram illustrating 'Limits of Partial Embodiment'. The left circle should represent 'Human Embodiment', featuring symbolic elements like a subtle anatomical outline, flowing organic lines, and abstract representations of feelings and metabolism (e.g., warm hues, gentle light pulses, faint biological textures). The right circle should represent 'Robot Embodiment', featuring clear, geometric lines, circuit board patterns, and symbolic representations of sensors, motors, and a structured training environment (e.g., cool blue tones, digital grids, faint mechanical elements). The two circles should have a small, deliberate overlap in the center, signifying the 'Partial Embodiment' where shared aspects exist (like interaction with a physical environment or task-oriented learning). The background should be neutral and allow the diagram to stand out, emphasizing the distinct characteristics of each circle and the minimal shared space. The overall style should be clean, informative, and visually engaging, highlighting the 'gaps' between biological and synthetic existence.|
 | <img alt="AI GenImg" src="Gemini_Generated_Image_c9w3smc9w3smc9w3.png"> | An image demonstrating a system that struggles to understand from the inside. Depict a sleek, sophisticated robot (not overly anthropomorphic, perhaps with visible internal mechanisms or glowing components) looking intently into a mirror. The robot's reflection in the mirror, however, is significantly blurry, fragmented, or heavily pixelated, making it difficult to discern clearly. The background should be minimalist and slightly darkened to emphasize the robot and its struggle with its reflection. The overall mood should be contemplative and subtly melancholic, highlighting the internal confusion or lack of complete self-perception. Ensure the robot itself is clearly defined, in contrast to its distorted reflection. |
+| Gemini_Generated_Image_y8zxmzy8zxmzy8zx.png"> | Create a cinematic close-up portrait (1:1 composition) of a highly educated middle-aged man with a soft, curious and thoughtful expression, seating on a bench in a city park facing an AI entity. The scene glows with diffused natural light, creating a high-key, airy atmosphere with light filtering gently from the side.
+
+Centered in the frame, the man leans slightly forward toward the AI entity — a delicate, and human-like posture. His eyes meet the AI entity with relaxed focus and intellectual engagement, evoking quiet wonder and curiosity.
+They are discussing a deep topic about human consciousness and suffering.
+
+Background (softly blurred for depth): trees, ponds and a water fountain in a distant.
+
+Style & Technical Details:
+
+Concept Art / Digital Painting with extreme photorealism
+
+Square 1:1 composition with balanced central framing
+
+Shallow depth of field (bokeh effect) for cinematic isolation
+
+Warm human textures contrasted against cool, glowing AI light
+
+Ultra-detailed textures, soft atmospheric haze, and cinematic tone mapping
+
+Emphasize harmonious human–AI coexistence, serene focus, deep thoughtful conversation, and emotional realism |
