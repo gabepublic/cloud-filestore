@@ -61,3 +61,6 @@ In the immediate foreground or on the lowest visible layer, include blurred, sil
 Focus on the dramatic effect of bright light against the dark background.
 Lighting/Mood: Cinematic, volumetric lighting, high dynamic range (HDR), incredibly detailed, depth of field to emphasize the scale.
 Style: Abstract, Sci-Fi, Data Visualization, Epic scale. |
+| <img alt="AI GenImg" src="Gemini_Generated_Image_m3q00bm3q00bm3q0.png"> | Create an image that show the problem that LLM can solve as shown in the following text. Make the shape of the image rectangular. Show the text in the image literally.
+
+Given context X, generate the correct continuation Y.|
