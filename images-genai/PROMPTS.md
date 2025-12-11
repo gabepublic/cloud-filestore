@@ -64,3 +64,4 @@ Style: Abstract, Sci-Fi, Data Visualization, Epic scale. |
 | <img alt="AI GenImg" src="Gemini_Generated_Image_m3q00bm3q00bm3q0.png"> | Create an image that show the problem that LLM can solve as shown in the following text. Make the shape of the image rectangular. Show the text in the image literally.
 
 Given context X, generate the correct continuation Y.|
+| <img alt="AI GenImg" src="Gemini_Generated_Image_ve8yogve8yogve8y.png"> | Generate an image of the "Cognition Pyramid" that looks like the attached image where at the base lies KNOWLEDGE; above it, THINKING; next, UNDERSTANDING; and at the top, INTELLIGENCE. Show the text on ONE SIDE of the pyramid ONLY. Reduce the font size of the text to fit within the pyramid. Use a subtle shadow of the pyramid to the right (south-east or 4 o'clock) and also a subtle word "AI" lay flat with the shadow. |
