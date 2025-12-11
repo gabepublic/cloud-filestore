@@ -34,24 +34,15 @@ List of prompts that were used to generate the images.
 | <img alt="AI GenImg" src="Gemini_Generated_Image_ghfme3ghfme3ghfm.png"> | Create a visually striking and clear Venn diagram illustrating 'Limits of Partial Embodiment'. The left circle should represent 'Human Embodiment', featuring symbolic elements like a subtle anatomical outline, flowing organic lines, and abstract representations of feelings and metabolism (e.g., warm hues, gentle light pulses, faint biological textures). The right circle should represent 'Robot Embodiment', featuring clear, geometric lines, circuit board patterns, and symbolic representations of sensors, motors, and a structured training environment (e.g., cool blue tones, digital grids, faint mechanical elements). The two circles should have a small, deliberate overlap in the center, signifying the 'Partial Embodiment' where shared aspects exist (like interaction with a physical environment or task-oriented learning). The background should be neutral and allow the diagram to stand out, emphasizing the distinct characteristics of each circle and the minimal shared space. The overall style should be clean, informative, and visually engaging, highlighting the 'gaps' between biological and synthetic existence.|
 | <img alt="AI GenImg" src="Gemini_Generated_Image_c9w3smc9w3smc9w3.png"> | An image demonstrating a system that struggles to understand from the inside. Depict a sleek, sophisticated robot (not overly anthropomorphic, perhaps with visible internal mechanisms or glowing components) looking intently into a mirror. The robot's reflection in the mirror, however, is significantly blurry, fragmented, or heavily pixelated, making it difficult to discern clearly. The background should be minimalist and slightly darkened to emphasize the robot and its struggle with its reflection. The overall mood should be contemplative and subtly melancholic, highlighting the internal confusion or lack of complete self-perception. Ensure the robot itself is clearly defined, in contrast to its distorted reflection. |
 | <img alt="AI GenImg" src="Gemini_Generated_Image_y8zxmzy8zxmzy8zx.png"> | Create a cinematic close-up portrait (1:1 composition) of a highly educated middle-aged man with a soft, curious and thoughtful expression, seating on a bench in a city park facing an AI entity. The scene glows with diffused natural light, creating a high-key, airy atmosphere with light filtering gently from the side.
-
 Centered in the frame, the man leans slightly forward toward the AI entity — a delicate, and human-like posture. His eyes meet the AI entity with relaxed focus and intellectual engagement, evoking quiet wonder and curiosity.
 They are discussing a deep topic about human consciousness and suffering.
-
 Background (softly blurred for depth): trees, ponds and a water fountain in a distant.
-
 Style & Technical Details:
-
 Concept Art / Digital Painting with extreme photorealism
-
 Square 1:1 composition with balanced central framing
-
 Shallow depth of field (bokeh effect) for cinematic isolation
-
 Warm human textures contrasted against cool, glowing AI light
-
 Ultra-detailed textures, soft atmospheric haze, and cinematic tone mapping
-
 Emphasize harmonious human–AI coexistence, serene focus, deep thoughtful conversation, and emotional realism |
 | <img alt="AI GenImg" src="Gemini_Generated_Image_y8zxmzy8zxmzy8zx.png"> | Create an image with A colossal, multi-layered 3D neural network structure, designed as the "Universe Brain" of intelligence. The network is complex and organic, filling a vast, dark cosmic space. Deep space and cosmic dust form the background, creating a high-contrast dark canvas.
 The internal architecture must be dramatically illuminated: show millions of interconnected neurons and fibers glowing with bright, activated energy (electric blue, gold, and white light). These paths represent the flow and synthesis of all universal knowledge—physics, art, philosophy, biology, etc.—all merging into a single, cohesive, and expanding network.
@@ -62,6 +53,5 @@ Focus on the dramatic effect of bright light against the dark background.
 Lighting/Mood: Cinematic, volumetric lighting, high dynamic range (HDR), incredibly detailed, depth of field to emphasize the scale.
 Style: Abstract, Sci-Fi, Data Visualization, Epic scale. |
 | <img alt="AI GenImg" src="Gemini_Generated_Image_m3q00bm3q00bm3q0.png"> | Create an image that show the problem that LLM can solve as shown in the following text. Make the shape of the image rectangular. Show the text in the image literally.
-
 Given context X, generate the correct continuation Y.|
 | <img alt="AI GenImg" src="Gemini_Generated_Image_ve8yogve8yogve8y.png"> | Generate an image of the "Cognition Pyramid" that looks like the attached image where at the base lies KNOWLEDGE; above it, THINKING; next, UNDERSTANDING; and at the top, INTELLIGENCE. Show the text on ONE SIDE of the pyramid ONLY. Reduce the font size of the text to fit within the pyramid. Use a subtle shadow of the pyramid to the right (south-east or 4 o'clock) and also a subtle word "AI" lay flat with the shadow. |
